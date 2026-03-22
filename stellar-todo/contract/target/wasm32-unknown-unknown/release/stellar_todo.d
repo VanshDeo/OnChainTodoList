@@ -1,0 +1,1 @@
+/Users/vanshdeo/dev/Binary\ Projects/OnChainTodoList/stellar-todo/contract/target/wasm32-unknown-unknown/release/stellar_todo.wasm: /Users/vanshdeo/dev/Binary\ Projects/OnChainTodoList/stellar-todo/contract/src/lib.rs
